@@ -8,3 +8,4 @@ Results for 2000 requests:
 `all`: ❌ Fetch error (too many requests)  
 `series`: ✅ 11 min 35 s  
 `chunks`: ✅ 1 min 12 s
+# async-chunk-requests
