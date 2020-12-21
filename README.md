@@ -1,3 +1,6 @@
+
+# async-chunk-requests
+
 ### Fetch data patterns in javascript with promises
 
 1. All - start all requests at the same time  
@@ -8,4 +11,3 @@ Results for 2000 requests:
 `all`: ❌ Fetch error (too many requests)  
 `series`: ✅ 11 min 35 s  
 `chunks`: ✅ 1 min 12 s
-# async-chunk-requests
